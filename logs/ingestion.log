@@ -1,0 +1,6 @@
+ERROR:root:2024-10-26 11:10:49.614048: Error ingesting data - [Errno 2] No such file or directory: '../data/raw/vehicle_dtc_data.csv'
+INFO:root:2024-10-26 11:14:30.671522: Data successfully ingested from ../data/raw/vehicle_dtc_data.csv
+ERROR:root:2024-10-26 11:18:46.069044: Error ingesting data - [Errno 2] No such file or directory: './data/raw/vehicle_dtc_data.csv'
+INFO:root:2024-10-26 11:18:56.913431: Data successfully ingested from ./data/raw/vehicle_dtc_data.csv
+INFO:root:2024-10-26 11:48:05.221258: Data successfully ingested from ./data/raw/vehicle_dtc_data.csv
+INFO:root:2024-10-26 11:58:03.546755: Data successfully ingested from ./data/raw/vehicle_dtc_data.csv
