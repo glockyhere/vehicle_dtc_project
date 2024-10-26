@@ -142,7 +142,7 @@ The dashboard will be available at \`http://127.0.0.1:8050/\`.
 
 Here’s an overview of the project structure:
 
-\`\`\`plaintext
+\`\`\`
 vehicle_dtc_project/
 │
 ├── data/                             # Data storage
